@@ -11,6 +11,11 @@ redis:7.2.4-alpine
 traefik:2.11
 openruntimes/executor:0.5.5
 
+openruntimes/node:v3-21.0
+openruntimes/php:v3-8.3
+openruntimes/python:v3-3.12
+openruntimes/ruby:v3-3.3
+
 openruntimes/node:v4-21.0
 openruntimes/php:v4-8.3
 openruntimes/python:v4-3.12
