@@ -11,6 +11,8 @@
 #traefik:2.11
 #openruntimes/executor:0.5.5
 
-openruntimes/node:v3-20.0
-openruntimes/php:v3-8.2
-openruntimes/python:v3-3.12
+#openruntimes/node:v3-20.0
+#penruntimes/php:v3-8.0
+openruntimes/php:v3-8.1
+#openruntimes/php:v3-8.2
+#openruntimes/python:v3-3.12
